@@ -1,2 +1,2 @@
-# clase1
+# Clase1
 Código primera clase de curso Javascript
